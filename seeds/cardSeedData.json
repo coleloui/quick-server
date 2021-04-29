@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Charizard",
+    "type": "Fire",
+    "condition": 9
+  },
+  {
+    "name": "Blastoise",
+    "type": "Water",
+    "condition": 10
+  },
+  {
+    "name": "Bulbasaur",
+    "type": "Grass",
+    "condition": 6
+  },
+  {
+    "name": "Pikachu",
+    "type": "Electric",
+    "condition": 10
+  },
+  {
+    "name": "Charizard EX",
+    "type": "Fire",
+    "condition": 10
+  },
+  {
+    "name": "Charmander",
+    "type": "Fire",
+    "condition": 1
+  }
+]
